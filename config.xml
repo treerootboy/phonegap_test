@@ -17,4 +17,9 @@
         treerootboy@gmail.com
     </author>
 
+    <gap:platforms>
+        <gap:platform name="android" minVersion="2.1" />
+    </gap:platforms>
+    <gap:splash src="resources/startup/640x920.png"/>
+
 </widget>
